@@ -8,7 +8,7 @@ ORDER BY fecha_nacimiento;
 
 SELECT *
 FROM PROFESOR
-WHERE salario > 65000;
+WHERE salario >= 65000;
 
 /* 3. Todos los profesores que nacieron en la década del 80. */
 
